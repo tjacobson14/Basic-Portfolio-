@@ -96,3 +96,12 @@ body {
     background: #535252;
     border-top: 10px solid #4aaaa5;
 }
+
+#contactform {
+    color: #777777;
+}
+ 
+#contactform fname {
+    width: 800px;
+    height: 10px;
+}
