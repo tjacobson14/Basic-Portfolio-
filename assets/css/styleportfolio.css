@@ -68,7 +68,7 @@ body {
 
 .box {
     width:960px;
-    height:500px;
+    height:800px;
     background-color:#ffff;
     padding:20px;
     margin: 200px;
@@ -83,17 +83,121 @@ body {
     font-weight: 600;
 }
 
-.box img {
-    width: 200px;
-    height: 400;
-    border: 2px solid #dddddd;
-    margin-left: 15px;
+.line {
+    width: 950px;
+    height: 0.5%;
+    background: #dddddd;
+    margin-left: 5px;
+    margin-top: -10px;
 }
+
+.box img {
+    width: 250px;
+    height: 150px;
+    padding: 40px;
+    margin: -15px;
+    align: left;
+}
+
 
 .footer{
     width: 100%;
     height:70px;
     background: #535252;
-    border-top: 10px solid #4aaaa5;
+    border-top: 8px solid #4aaaa5;
 }
 
+#img_container {
+    position:relative;
+    display:inline-block;
+    text-align:center;  
+}
+
+.button {
+    position:absolute;
+    bottom:35px;
+    right:25px;
+    width:250px;
+    height:50px;
+    margin-top: 90px;
+    background: #4aaaa5;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+#img_container2 {
+    position:relative;
+    display:inline-block;
+    text-align:center;   
+}
+
+.button2 {
+    position:absolute;
+    bottom:35px;
+    right:25px;
+    width:250px;
+    height:50px;
+    margin-top: 100px;
+    background: #4aaaa5;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#img_container3 {
+    position:relative;
+    display:inline-block;
+    text-align:center;   
+}
+
+.button3 {
+    position:absolute;
+    bottom:35px;
+    right:25px;
+    width:250px;
+    height:50px;
+    margin-top: 100px;
+    background: #4aaaa5;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#img_container4 {
+    position:relative;
+    display:inline-block;
+    text-align:center;   
+}
+
+.button4 {
+    position:absolute;
+    bottom:35px;
+    right:25px;
+    width:250px;
+    height:50px;
+    margin-top: 100px;
+    background: #4aaaa5;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#img_container5 {
+    position:relative;
+    display:inline-block;
+    text-align:center;   
+}
+
+.button5 {
+    position:absolute;
+    bottom:35px;
+    right:25px;
+    width:250px;
+    height:50px;
+    margin-top: 100px;
+    background: #4aaaa5;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
